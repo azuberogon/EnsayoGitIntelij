@@ -13,9 +13,9 @@ public class Saludo {
 
 	}
  
-	public String  saludar(String nombre) {
+	public String  saludar(String nombre, int edad) {
 
-		return "Hi " + nombre;
+		return "Hi " + nombre + edad ;
 
 	}
 }
