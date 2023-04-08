@@ -8,6 +8,7 @@ public class TestSaludo {
 		Saludo saludo = new Saludo();
 		System.out.println(saludo.saludar("Juan ",18));
 		System.out.println(saludo.saludar("Ana ",15));
+		System.out.println(saludo.saludar("antonio ",19));
 		 
 	}
 
